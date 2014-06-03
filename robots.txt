@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lanfon72.github.io//github/sitemap.xml 
